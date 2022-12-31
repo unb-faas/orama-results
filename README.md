@@ -7,15 +7,15 @@ Status: **to be written**
   - Use-cases: Calculator with different memory configuration in various regions
 
 
-## 2023 - CCGRID - International Symposium on Cluster, Cloud and Internet Computing
-Status: **to be written**
+## 2023 - CCGRID - International Symposium on Cluster, Cloud and Internet Computing / STEERS - Serverless To sErvE moRe at Scale
+Status: **under pre revision**
 ### Highlights
   - Providers: AWS, GCP, Azure and Alibaba
   - Use-cases: Database and Object Storage with distributed Orama workers 
 
 
 ## 2023 - SBRC - Simpósio Brasileiro de Redes de Computadores
-Status: **not submited**
+Status: **submited**
 ### Highlights
   - Providers: AWS, GCP, Azure and Alibaba
   - Use-cases: Calculator in different regions
