@@ -7,8 +7,13 @@ Status: **accepted**
   - Use-cases: Calculator in various regions with workers distributed and concentrated executing since 1 to 2048 concurrent requests.
 
 
+<<<<<<< HEAD
 ## 2023 - IEEE Cloud - International Conference on Cloud Computing
 Status: **under revision**
+=======
+## 2023 - CCGRID - International Symposium on Cluster, Cloud and Internet Computing / STEERS - Serverless To sErvE moRe at Scale
+Status: **under pre revision**
+>>>>>>> 45b3b4d56f8d4bf32e498745d2fb78b82ea0023c
 ### Highlights
   - Providers: AWS, GCP, Azure and Alibaba
   - Use-cases: Database and Object Storage with distributed Orama workers 
